@@ -1,4 +1,4 @@
-### **Lesson 11: Table Structure**
+### **Lesson 9: Table Structure**
 
 #### **Objective:**
 
